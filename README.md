@@ -1,2 +1,2 @@
-# --Today-I-Learned--
-⭐️My learning diary ⭐️
+# Today I Learned [TIL]
+## Contents
