@@ -3,8 +3,14 @@ Bella Kim's Learning Diary
 
 ## Contents
 
-### 1. 디자인 패턴 (Design pattern)
+### 1. [디자인 패턴 (Design pattern)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%20(Design%20Pattern).md)
 1.1 [전략 패턴 (Strategy Pattern)](https://github.com/pong-pong/--Today-I-Learned--/commit/57e16ef3505302db81c296cb75699a8a13f0a563) 
+
+1.2 [팩토리 패턴 (Factory Pattern)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%ED%8C%A9%ED%86%A0%EB%A6%AC%20%ED%8C%A8%ED%84%B4%20(Factory%20Pattern).md)
+
+1.2.1 팩토리 메소드 패턴 (Factory Method Pattern)
+
+1.2.2 추상 팩토리 패턴 (Abstract Factory Pattern)
 
 ### 2. 배경지식
 2.1 [객체지향 설계 원칙 (SOLID)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%20%EC%9B%90%EC%B9%99%20(SOLID).md)
