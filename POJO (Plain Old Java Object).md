@@ -30,7 +30,6 @@ public class Book {
 }
 ```
 
-view rawBook.java hosted with ❤ by GitHub
 이클립스나 IntelliJ같은 IDE에서 자동생성해주는 값을 담는 빈 클래스입니다. 이것을 두고 우리는 POJO 라고 부릅니다. 그럼 왜 이를 두고 전부터 사용해오던 '빈(Bean)'이라는 용어 대신 굳이 POJO라고 새로이 명명했을까요?
 
 그 이유는 바로 __빈 이라는 용어로 위의 값 객체를 정의하기에는 Java Bean, EJB의 Bean 등과 구분이 모호하고 또한 Bean이라는 용어로 정의되는 다른 많은 개념들과의 혼동을 피하고 확실히 분리시키기 위해 POJO라고 새로이 지칭한 것__ 이라고 볼 수 있습니다.
