@@ -22,3 +22,5 @@ Bella Kim's Learning Diary
 2.1.3 [리스코프 치환 원칙 (LSP, Liskov Subsitution Principle)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EB%A6%AC%EC%8A%A4%EC%BD%94%ED%94%84%20%EC%B9%98%ED%99%98%20%EC%9B%90%EC%B9%99%20(Liskov%20Subsitution%20Principle).md)
 
 2.2 [오브젝트의 동일성과 동등성 (Identity vs Equality)](https://github.com/pong-pong/--Today-I-Learned--/commit/ec6b110b39e0554a0910d5bb3acac85d01562468)
+
+2.3 [POJO (Plain Old Java Object)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/POJO%20(Plain%20Old%20Java%20Object).md)
