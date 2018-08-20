@@ -24,3 +24,5 @@ Bella Kim's Learning Diary
 2.2 [오브젝트의 동일성과 동등성 (Identity vs Equality)](https://github.com/pong-pong/--Today-I-Learned--/commit/ec6b110b39e0554a0910d5bb3acac85d01562468)
 
 2.3 [POJO (Plain Old Java Object)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/POJO%20(Plain%20Old%20Java%20Object).md)
+
+2.4 [의존성(의존관계) 주입 (DI, Dependency Injection)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1(%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84)%20%EC%A3%BC%EC%9E%85%20(DI%2C%20Dependency%20Injection).md)
