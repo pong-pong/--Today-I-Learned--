@@ -30,3 +30,8 @@ Bella Kim's Learning Diary
 2.3 [POJO (Plain Old Java Object)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/POJO%20(Plain%20Old%20Java%20Object).md)
 
 2.4 [의존성(의존관계) 주입 (DI, Dependency Injection)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1(%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84)%20%EC%A3%BC%EC%9E%85%20(DI%2C%20Dependency%20Injection).md)
+
+
+### 3. Java
+
+3.1 [자바의 synchronized 키워드(동기화)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EC%9E%90%EB%B0%94%EC%9D%98%20synchronized%20%ED%82%A4%EC%9B%8C%EB%93%9C%20(%EB%8F%99%EA%B8%B0%ED%99%94).md)
