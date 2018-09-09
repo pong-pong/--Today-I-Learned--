@@ -23,6 +23,8 @@ Bella Kim's Learning Diary
 
 2.1.4 [인터페이스 분리 원칙 (ISP, Interface Segregation Principle)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EB%B6%84%EB%A6%AC%20%EC%9B%90%EC%B9%99%20(ISP%2C%20Interface%20Segregation%20Principle).md)
 
+2.1.5 [의존관계 역전 법칙 (DIP, Dependency Inversion Principle)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84%20%EC%97%AD%EC%A0%84%20%EC%9B%90%EC%B9%99%20(DIP%2C%20Dependency%20Inversion%20Principle).md)
+
 2.2 [오브젝트의 동일성과 동등성 (Identity vs Equality)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%EC%9D%98%20%EB%8F%99%EC%9D%BC%EC%84%B1%EA%B3%BC%20%EB%8F%99%EB%93%B1%EC%84%B1%20(Identity%20vs%20Equality).md)
 
 2.3 [POJO (Plain Old Java Object)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/POJO%20(Plain%20Old%20Java%20Object).md)
