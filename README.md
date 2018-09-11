@@ -31,6 +31,7 @@ Bella Kim's Learning Diary
 
 2.4 [의존성(의존관계) 주입 (DI, Dependency Injection)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1(%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84)%20%EC%A3%BC%EC%9E%85%20(DI%2C%20Dependency%20Injection).md)
 
+2.5 [관점 지향 프로그래밍 (AOP, Aspect-Oriented Programming)](https://github.com/pong-pong/--Today-I-Learned--/blob/master/%EA%B4%80%EC%A0%90%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20(AOP%2C%20Aspect-Oriented%20Programming).md)
 
 ### 3. Java
 
